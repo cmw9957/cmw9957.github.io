@@ -11,7 +11,7 @@ tags:
 약 한달 전에 arbitrage bot 구현을 위해 full node를 구축했습니다. full node 운영 이유는 빠르게 on-chain 데이터를 읽어오기 위함이고, 제한이 없기 때문입니다. 또한, node에서 사용할 수있는 여러 tracer들을 온전히 사용할 수 있고, 목적에 따라 커스텀하기 위해 운영하기로 마음 먹었습니다.
 
 # Hardware requirement
-<img src="./2025-11-08/hardware-requirement.png" alt="alt text" width="500">
+<img src="../images/hardware-requirement.png" alt="alt text" width="500">
 
 - CPU : 14 cores / 20 threads(6 performance core, 8 efficient core)
 - RAM : 32GB
