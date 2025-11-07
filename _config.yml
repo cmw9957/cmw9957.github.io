@@ -23,7 +23,7 @@ repository               : "cmw9957/cmw9957.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_nft.png"
   name             : "Cho Minwoo"
   pronouns         : # example: "she/her"  
   bio              : "Interest in MEV. I like Solidity, Rust language."
