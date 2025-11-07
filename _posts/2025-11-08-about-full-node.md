@@ -21,8 +21,7 @@ tags:
 
 # Execution & Consensus client
 ## geth
-## lighthpuse
-geth + lighthouse
+## lighthouse
 
 # geth install
 
@@ -154,6 +153,6 @@ WantedBy=multi-user.target
 ```
 
 # reference
-https://medium.a41.io/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%86%94%EB%A1%9C-validator-%EB%85%B8%EB%93%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-af2013e62ef7
+<https://medium.a41.io/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%86%94%EB%A1%9C-validator-%EB%85%B8%EB%93%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-af2013e62ef7>
 
-https://cafe.naver.com/eth2staking?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30197760%2526articleid%3D873
+<https://cafe.naver.com/eth2staking?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30197760%2526articleid%3D873>
