@@ -399,3 +399,22 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* emgithub 스타일 조정 */
+.emgithub-container,
+.emgithub-file {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* emgithub iframe 조정 */
+script[src*="emgithub"] + div,
+.emgithub-embed {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  
+  iframe {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+}
