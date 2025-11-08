@@ -36,3 +36,18 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* emgithub 라인 번호 영역 너비 조정 */
+table.hljs-ln {
+  width: auto !important;  // 테이블 전체 너비를 자동으로
+}
+
+table.hljs-ln td.hljs-ln-numbers {
+  width: 40px !important;  // 라인 번호 칸 너비 고정
+  min-width: 40px !important;
+  max-width: 40px !important;
+}
+
+table.hljs-ln td.hljs-ln-code {
+  width: auto !important;  // 코드 영역은 자동
+}
