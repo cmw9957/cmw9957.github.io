@@ -152,7 +152,7 @@ RestartSec=5
 WantedBy=multi-user.target
 ```
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcmw9957%2FUpside_Practice_ERC20%2Fblob%2F6ddb2d063705a0066d062ad61c173f5281082117%2Fscript%2FCounter.s.sol%23L1-L12&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fcmw9957%2FUpside_Practice_ERC20%2Fblob%2F6ddb2d063705a0066d062ad61c173f5281082117%2Fscript%2FCounter.s.sol%23L1-L12&style=dark&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 # reference
 - <https://medium.a41.io/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%86%94%EB%A1%9C-validator-%EB%85%B8%EB%93%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-af2013e62ef7>
