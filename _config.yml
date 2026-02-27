@@ -36,7 +36,6 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: kabi
   email: cmw9957@gmail.com # change to your email address
->>>>>>> 4765cc0 (feat: init)
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/cmw9957 # change to your Twitter homepage
